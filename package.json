@@ -1,0 +1,15 @@
+{
+  "name": "senator-yari",
+  "private": true,
+  "type": "module",
+  "description": "Official website of Senator Abdulaziz Abubakar Yari. Zero-dependency static build fed by his Instagram record.",
+  "scripts": {
+    "fetch": "node tools/fetch-media.mjs",
+    "media": "node tools/process-media.mjs",
+    "build": "node tools/build.mjs",
+    "build:pages": "BASE=/senator-yari MEDIA=1 node tools/build.mjs",
+    "serve": "python3 -m http.server 8787 --directory site",
+    "update": "npm run fetch && npm run media && npm run build"
+  },
+  "engines": { "node": ">=20" }
+}

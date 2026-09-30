@@ -1,0 +1,211 @@
+{
+  "name": "Abdulaziz Abubakar Yari",
+  "shortName": "Senator Yari",
+  "title": "Marafan Sokoto",
+  "roles": [
+    "Director-General, APC Presidential Campaign Council",
+    "Senator, Zamfara West",
+    "Former Governor of Zamfara State"
+  ],
+  "tagline": "Senator for Zamfara West, former Governor of Zamfara State, and Director-General of the APC Presidential Campaign Council.",
+  "description": "Official website of Senator Abdulaziz Abubakar Yari, Marafan Sokoto: Senator for Zamfara West, former two-term Governor of Zamfara State and Director-General of the APC Presidential Campaign Council.",
+  "siteUrl": "https://mizanqist.github.io/senator-yari",
+  "instagram": "https://www.instagram.com/senatoraayari/",
+  "x": "https://x.com/SenatorAAYari",
+  "facebook": "https://www.facebook.com/SenatorAAYari",
+  "hero": { "code": "DdUYMh5jVvp", "slot": "0" },
+  "portrait": { "code": "profile", "slot": "0" },
+  "positions": [
+    ["Senate", "Senator representing Zamfara West Senatorial District, 10th National Assembly"],
+    ["Committee chair", "Senate Committee on Water Resources and Sanitation"],
+    ["Vice chair", "Senate Committee on Banking, Insurance and other Financial Institutions"],
+    ["Campaign", "Director-General, APC Presidential Campaign Council, from 22 August 2026"],
+    ["Previously", "Governor of Zamfara State, two terms"],
+    ["Title", "Marafan Sokoto"]
+  ],
+  "committees": {
+    "intro": "Beyond chairing Water Resources and Sanitation, the Senator sits on fourteen further committees, as listed on his official letterhead.",
+    "list": ["Water Resources and Sanitation (Chairman)", "Banking, Insurance and other Financial Institutions (Vice Chairman)", "Housing", "Works", "Interior", "Health", "Finance", "Upstream Petroleum", "Education, Basic and Secondary", "Privatization", "Inter-parliamentary", "Trade and Investment", "Solid Minerals", "Industries", "Public Procurement", "Primary Healthcare Development and Disease Control"]
+  },
+  "nav": [
+    ["About", "/about/"],
+    ["Projects", "/projects/"],
+    ["Campaign", "/campaign/"],
+    ["Senate", "/senate/"],
+    ["Activity", "/activity/"],
+    ["Gallery", "/gallery/"],
+    ["Contact", "/contact/"]
+  ],
+  "now": {
+    "label": "Now",
+    "text": "Leading President Bola Ahmed Tinubu's re-election campaign as Director-General of the APC Presidential Campaign Council, appointed 22 August 2026."
+  },
+  "numbers": [
+    { "value": "250,000", "label": "households fed in Ramadan 2024", "note": "1.25 million people, 358 trucks, 147 wards", "media": "C4XHQZsIgO_:2" },
+    { "value": "2,000+", "label": "students on the AA Yari Scholarship" },
+    { "value": "2,000+", "label": "flood-hit homes rebuilt in Gummi" },
+    { "value": "147", "label": "wards reached by the Ramadan and Maulud food programmes" },
+    { "value": "2,500", "label": "people cross the Bardoki Bridge each day" },
+    { "value": "₦58m", "label": "to the Tudun Biri victims with the Northern Senators" }
+  ],
+  "feature": { "media": "C0OEJf8MRV3:3", "label": "A thousand people in Zamfara West had their sight treated, free, through the constituency office.", "alt": "A patient after free eye surgery in Zamfara West" },
+  "projects": [
+    {
+      "id": "yarifeeds",
+      "name": "#YariFeeds250k",
+      "kicker": "Food security",
+      "summary": "Rice, grains, beans, maize and sugar to 250,000 households in every one of Zamfara's 147 wards during Ramadan 2024, regardless of political affiliation.",
+      "facts": ["1.25 million people", "358 trucks", "147 ward centres", "All 14 local governments"],
+      "detail": "Flagged off in Talata Mafara on 11 March 2024 with a distribution committee chaired by Hon. Liman. The stories of the families it reached were told in the documentary Hope Amidst Hunger, broadcast on Arise Television on 12 May 2024.",
+      "media": ["C4Ypk0xstxz:2", "C4XHQZsIgO_:3", "C4WNvUxs_f7", "C629DLWMa9X"]
+    },
+    {
+      "id": "gummi",
+      "name": "Gummi flood recovery",
+      "kicker": "Disaster relief",
+      "summary": "After the 2024 floods took more than 2,000 homes in Gummi, fifteen trucks of relief supplies arrived first, then blocks, cement, builders and roofing until families had homes again.",
+      "facts": ["15 trucks of relief supplies", "2,000+ homes lost, rebuilt in stages", "Committee set up with the Emir of Gummi"],
+      "detail": "Support came step by step: mattresses and blankets, then building materials and money to pay builders, then roofing to finish each house. The rebuilding committee was directed to use modern, durable materials so the tragedy would not repeat.",
+      "media": ["C_AhMUzMbXb", "DdR48GgpXuw", "DdriFHahOaJ"]
+    },
+    {
+      "id": "bardoki",
+      "name": "Bardoki Bridge",
+      "kicker": "Infrastructure",
+      "summary": "A promise to the people of Bardoki in Gummi Local Government, kept in August 2024. Around 2,500 people cross it every day to reach markets, schools and clinics.",
+      "facts": ["2,500 crossings a day", "800,000+ a year", "Completed August 2024"],
+      "detail": "Before the bridge, Bardoki was cut off from essential goods, services and opportunity. The bridge lowers transport costs, shortens travel time and keeps trade moving across the community.",
+      "media": ["C-NjuqdsuYv", "DbvIzTojKwQ"]
+    },
+    {
+      "id": "scholarship",
+      "name": "AA Yari Scholarship",
+      "kicker": "Education",
+      "summary": "More than 2,000 students across Zamfara are in school on the scholarship, most of whom have never met the man behind it.",
+      "facts": ["2,000+ students", "Across all of Zamfara"],
+      "detail": "Bushra lost her father young and had almost given up on school; today she is at the Federal University, Gusau. Hussaini is training to be a nurse so his community always has someone to run to.",
+      "media": ["DcBqSRisPSn", "DdBpEHPsDaW"]
+    },
+    {
+      "id": "eyecare",
+      "name": "Free eye care",
+      "kicker": "Health",
+      "summary": "Free eye treatment for 1,000 people in Zamfara West, run by the constituency office with Visions Savers Eye Care Center.",
+      "facts": ["1,000 patients", "Surgeries, medication and glasses"],
+      "detail": "Launched in November 2023 for vulnerable groups who would otherwise go without treatment, with comprehensive options to restore and preserve sight.",
+      "media": ["C0OEJf8MRV3"]
+    },
+    {
+      "id": "bakura",
+      "name": "ICT facility, College of Education Bakura",
+      "kicker": "Education",
+      "summary": "A full ICT laboratory so that the practical seventy percent of coursework is done on real equipment rather than on paper.",
+      "facts": ["Full ICT facility", "College of Education, Bakura"],
+      "detail": "",
+      "media": ["DcqXTYuM0Bd"]
+    },
+    {
+      "id": "fertilizer",
+      "name": "Fertilizer support",
+      "kicker": "Agriculture",
+      "summary": "Fertilizer for farmers across Zamfara as prices put a strong harvest out of reach.",
+      "facts": ["Farmers across Zamfara"],
+      "detail": "Alhaji Umaru Fuloti has farmed for 66 years. The support gave him, and many others, another chance at a stronger harvest.",
+      "media": ["DcN8zUfMu7j"]
+    },
+    {
+      "id": "maulud",
+      "name": "Eid-el-Maulud distribution",
+      "kicker": "Food security",
+      "summary": "Rice, maize and cattle to heads of households, widows and vulnerable groups across all 14 local governments in September 2023.",
+      "facts": ["14 local governments", "147 wards"],
+      "detail": "",
+      "media": ["CxsH7j_Mhkz"]
+    },
+    {
+      "id": "tudunbiri",
+      "name": "Tudun Biri relief",
+      "kicker": "Solidarity",
+      "summary": "With the Northern Senators Forum, a ₦58 million donation to the families affected by the airstrike in Tudun Biri, Kaduna State.",
+      "facts": ["₦58 million", "58 Northern Senators"],
+      "detail": "",
+      "media": ["C0m2_BPMz8P"]
+    },
+    {
+      "id": "roads",
+      "name": "Roads, bridges and erosion control",
+      "kicker": "Infrastructure",
+      "summary": "Personally funded works across Zamfara, separate from constituency projects, connecting communities and supporting local trade.",
+      "facts": ["Personally funded", "Separate from constituency projects"],
+      "detail": "",
+      "media": ["DbqTY4aDBBj"]
+    }
+  ],
+  "stories": ["DdriFHahOaJ", "DdBpEHPsDaW", "DcBqSRisPSn", "DcqXTYuM0Bd", "DcN8zUfMu7j", "DdR48GgpXuw"],
+  "campaign": {
+    "intro": "On 22 August 2026 President Tinubu named Senator Yari Director-General of the APC Presidential Campaign Council. Within five weeks the consultations had reached royal fathers, religious leaders, governors and party structures in ten states.",
+    "states": ["Zamfara", "Sokoto", "Lagos", "Edo", "Borno", "Kaduna", "Kano", "Bauchi", "Plateau", "FCT"],
+    "home": "Zamfara",
+    "stops": [
+      { "date": "2026-08-22", "state": "FCT", "title": "Appointed Director-General", "text": "Accepts the appointment: the work begins now, together we deliver victory in January 2027.", "code": "DcVkeEot9xT" },
+      { "date": "2026-08-24", "state": "FCT", "title": "APC National Chairman visits", "text": "Prof. Nentawe Goshwe Yilwatda received at home in Abuja, followed by party leaders and supporters.", "code": "Dcb8u9GN_Ho" },
+      { "date": "2026-08-26", "state": "FCT", "title": "A day of courtesy visits", "text": "Gov. Dauda Lawal, Chief Femi Fani-Kayode, Dr Abdullahi Ganduje, Rt Hon. Yakubu Dogara, Dr Kayode Fayemi, Chief of Staff Femi Gbajabiamila and Yahaya Bello.", "code": "Dce40uosK8N" },
+      { "date": "2026-08-27", "state": "FCT", "title": "Seyi Tinubu", "text": "A courtesy visit and a commitment to work with youth groups across the country.", "code": "DcjNIzDNUg8" },
+      { "date": "2026-08-30", "state": "FCT", "title": "Gov. Dapo Abiodun", "text": "Productive conversations on the journey ahead.", "code": "DcqIkZ8Nvlg" },
+      { "date": "2026-09-02", "state": "Zamfara", "title": "Gusau turns out", "text": "Hundreds of thousands pour into Gusau in support of the Renewed Hope mandate.", "code": "DczX0x1DN8n" },
+      { "date": "2026-09-07", "state": "FCT", "title": "Campaign headquarters", "text": "Meeting staff, assessing the facility and reviewing what the operation needs.", "code": "DdAAzfjNCHs" },
+      { "date": "2026-09-09", "state": "Zamfara", "title": "Home to Zamfara", "text": "Government House, the NURTW, traditional rulers and citizens across the state.", "code": "DdFbiROsIQO" },
+      { "date": "2026-09-10", "state": "Zamfara", "title": "Bungudu", "text": "Celebrating Hon. Abdulmalik Zubairu, Zannan Bungudu, three years into his mandate.", "code": "DdHvs5ONUwC" },
+      { "date": "2026-09-11", "state": "Zamfara", "title": "State Working Committee", "text": "All 14 local government chairmen with State Chairman Hon. Kabiru Moyi Birnin Magaji.", "code": "DdKakQ9tJji" },
+      { "date": "2026-09-12", "state": "Zamfara", "title": "The Ulama", "text": "Chief Imams of all 14 local governments and the Ulamah Consultative Council.", "code": "DdNI7cWjXNd" },
+      { "date": "2026-09-14", "state": "Sokoto", "title": "The Sultan of Sokoto", "text": "Leading a delegation of political leaders to His Eminence.", "code": "DdSBCQkDLac" },
+      { "date": "2026-09-14", "state": "Lagos", "title": "The Oba of Lagos", "text": "Warm reception, wise counsel and prayers.", "code": "DdSHIxoNd03" },
+      { "date": "2026-09-15", "state": "Edo", "title": "The Oba of Benin", "text": "Homage at the palace as consultations continue.", "code": "DdUFFIxja_I" },
+      { "date": "2026-09-15", "state": "Borno", "title": "The Shehu of Borno", "text": "At the palace in Maiduguri.", "code": "DdUYMh5jVvp" },
+      { "date": "2026-09-20", "state": "Kaduna", "title": "JIBWIS leadership", "text": "Jama'atu Izalatil Bid'ah Wa Iqamatus Sunnah in Kaduna.", "code": "Ddhj8xcDfsf" },
+      { "date": "2026-09-20", "state": "Plateau", "title": "Jos and Bauchi", "text": "Sheikh Sani Yahaya Jingir in Jos; Khalifa Sheikh Ibrahim, son of the late Sheikh Dahiru Bauchi, in Bauchi.", "code": "DdhnmiSDXDF" },
+      { "date": "2026-09-21", "state": "Kano", "title": "Four states in one day", "text": "Kaduna, Kano, Bauchi and Plateau.", "code": "DdkLPP6tJ2H" },
+      { "date": "2026-09-28", "state": "Zamfara", "title": "The youth of Gusau", "text": "A massive turnout of young people for President Tinubu.", "code": "Dd0neixtRhC" }
+    ]
+  },
+  "senate": {
+    "intro": "Elected to the 10th Senate for Zamfara West in 2023 and named Chairman of the Senate Committee on Water Resources.",
+    "items": [
+      { "date": "2023-09-18", "title": "Clean water for 133 million", "text": "Setting out the Water Resources committee's agenda: legislate on the water challenges that leave 133 million Nigerians without clean water.", "code": "CxUoz91Nmt9" },
+      { "date": "2023-09-26", "title": "Confirming the CBN leadership", "text": "The Senate confirms Dr Yemi Cardoso as Governor of the Central Bank with four deputies; at the screening he presses on Forex access for small businesses.", "code": "CxqiGGwsO-3" },
+      { "date": "2023-10-12", "title": "P20 Summit, New Delhi", "text": "With the Speaker and Deputy Senate President, engaging G20 parliaments on the SDGs, digital literacy and sustainable energy.", "code": "CySvwmXMc9I" },
+      { "date": "2023-10-20", "title": "Fiscal policy retreat", "text": "The Senate retreat on fiscal policy and tax reform in Ikot Ekpene, Akwa Ibom.", "code": "Cyne7s1sk44" },
+      { "date": "2023-10-26", "title": "Water Resources committee inaugurated", "text": "Presiding over the first meeting: clean drinking water, sanitation, and water for energy, irrigation and transport.", "code": "Cy32H05syPa" },
+      { "date": "2023-11-28", "title": "Police Trust Fund", "text": "The Senate approves the Nigeria Police Trust Fund budget so officers are resourced to protect the country.", "code": "C0Mz0AqsOjA" },
+      { "date": "2023-11-29", "title": "Budget of Renewed Hope", "text": "President Tinubu presents the 2024 Appropriation Bill to the National Assembly.", "code": "C0PDxZHMMsO" },
+      { "date": "2023-12-07", "title": "Correctional Service budget defence", "text": "The Joint Committee on Interior presses for transparency and humane treatment of inmates.", "code": "C0lEmhioomx" },
+      { "date": "2023-12-12", "title": "Water and sanitation hearings", "text": "First 2024 budget defence hearing of the Joint Committee on Water Resources and Sanitation.", "code": "C0yB9EfM3HD" },
+      { "date": "2024-02-13", "title": "Security session", "text": "A closed-door session with the National Security Adviser, service chiefs, ministers of Defence and Interior, the Inspector-General and the DSS.", "code": "C3Sn8wmssWH" }
+    ]
+  },
+  "bio": {
+    "lead": "Abdulaziz Abubakar Yari is the Senator representing Zamfara West in the 10th Senate, the former two-term Governor of Zamfara State, and, since August 2026, Director-General of the APC Presidential Campaign Council. He holds the traditional title Marafan Sokoto.",
+    "paragraphs": [
+      "He was born and raised in Talata Mafara, Zamfara State, which he still calls home. His late father, Alhaji Abubakar Yari, remains his greatest inspiration: Baba's teachings, lessons and faith shaped the person he is today.",
+      "As Governor he welcomed Asiwaju Bola Ahmed Tinubu to Zamfara to commission township roads built by his administration, an early sign of a shared belief that infrastructure connects communities and drives growth.",
+      "In the Senate he chairs the Committee on Water Resources and sits on the joint committees on Water Resources and Sanitation and on Interior. He is a member of the Northern Senators Forum.",
+      "Outside the chamber his work in Zamfara runs through food distribution, disaster relief, scholarships, health outreach and infrastructure funded personally and through the constituency office."
+    ],
+    "family": [
+      ["Father", "The late Alhaji Abubakar Yari, laid to rest at Talata Mafara Central Cemetery."],
+      ["Son", "Ahmad Yari, a member of the governing council of the City Boy Movement."],
+      ["Home", "Talata Mafara, Zamfara. Abuja residence in Maitama."]
+    ],
+    "todo": "Dates of birth, education, governorship terms and the Marafan Sokoto conferment are to be supplied by the Senator's office."
+  },
+  "contact": {
+    "intro": "For constituency matters, press enquiries and campaign coordination.",
+    "offices": [
+      { "name": "Constituency Office, Zamfara West", "lines": ["Address to be confirmed by the Senator's office"] },
+      { "name": "Senate Office", "lines": ["Suites 3:24, New Building", "National Assembly Complex, Three Arms Zone, Abuja"] }
+    ],
+    "email": "",
+    "whatsapp": ""
+  },
+  "credit": { "name": "Mizan Qist", "url": "https://mizanqist.github.io" }
+}

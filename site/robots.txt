@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mizanqist.github.io/senator-yari/sitemap.xml

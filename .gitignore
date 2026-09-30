@@ -1,0 +1,7 @@
+# raw downloads and intermediate media (hundreds of MB); site/media holds the web copies
+media/originals/
+media/web/
+media/profile.jpg
+*.log
+.DS_Store
+node_modules/
